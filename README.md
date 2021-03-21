@@ -1,5 +1,5 @@
 # Study-HTML-CSS
 
-#Use
+# Use
 
 Open webpage for viewing project: https://koleshkos.github.io/Study-HTML-CSS/
